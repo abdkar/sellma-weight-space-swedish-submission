@@ -1,0 +1,17 @@
+contrast,language,split,n,families,effect_pp,low_pp,high_pp,discordant_concepts,discordant_families,degenerate_interval,missing_one_arm,both_wrong,rescued,regressed,both_correct
+B-A,sv,dev,10,5.0,20.0,0.0,40.0,4.0,3.0,False,0.0,0.0,3.0,1.0,6.0
+B-C,sv,dev,0,,,,,,,,,,,,
+B-C_pen,sv,dev,0,,,,,,,,,,,,
+C_pen-A,sv,dev,0,,,,,,,,,,,,
+D-C,sv,dev,0,,,,,,,,,,,,
+B-R1,sv,dev,10,5.0,80.0,60.0,100.0,8.0,5.0,False,0.0,1.0,8.0,0.0,1.0
+B-S1,sv,dev,0,,,,,,,,,,,,
+B-A,en,dev,10,5.0,10.0,0.0,30.0,1.0,1.0,False,0.0,0.0,1.0,0.0,9.0
+B-C,en,dev,0,,,,,,,,,,,,
+B-C_pen,en,dev,0,,,,,,,,,,,,
+C_pen-A,en,dev,0,,,,,,,,,,,,
+D-C,en,dev,0,,,,,,,,,,,,
+B-R1,en,dev,10,5.0,20.0,0.0,40.0,2.0,2.0,False,0.0,0.0,2.0,0.0,8.0
+B-S1,en,dev,0,,,,,,,,,,,,
+D-C,sv,regression,0,,,,,,,,,,,,
+D-C,en,regression,0,,,,,,,,,,,,

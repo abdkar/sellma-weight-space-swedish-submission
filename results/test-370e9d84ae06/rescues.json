@@ -1,0 +1,128 @@
+[
+  {
+    "id": "test-addition-0-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-addition-0-v1",
+    "language": "sv",
+    "original_truncated": false,
+    "original_repetitive": false,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-addition-0-v1",
+    "language": "en",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-subtraction-0-v0",
+    "language": "en",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-division-0-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-multiplication-1-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-multiplication-1-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-division-2-v0",
+    "language": "en",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-subtraction-3-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-subtraction-3-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-multiplication-3-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-division-3-v1",
+    "language": "sv",
+    "original_truncated": false,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-addition-4-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-subtraction-4-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-multiplication-4-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-multiplication-4-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-division-4-v0",
+    "language": "sv",
+    "original_truncated": false,
+    "original_repetitive": false,
+    "original_answer_present": false
+  },
+  {
+    "id": "test-division-4-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  }
+]

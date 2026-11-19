@@ -1,0 +1,15 @@
+split,language,condition,n,numeric_correct_posthoc
+test,en,A,40,37
+test,en,B,40,40
+test,en,C,40,40
+test,en,C_pen,40,39
+test,en,D,40,40
+test,en,R1,40,25
+test,en,S1,40,31
+test,sv,A,40,23
+test,sv,B,40,40
+test,sv,C,40,34
+test,sv,C_pen,40,38
+test,sv,D,40,33
+test,sv,R1,40,10
+test,sv,S1,40,23

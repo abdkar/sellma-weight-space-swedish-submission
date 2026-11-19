@@ -1,0 +1,5 @@
+# Preserve the byte-level source and task fingerprints from Colab.
+sellma_wsp/*.py text eol=lf
+vendor/upstream/*.py text eol=lf
+data/tasks.jsonl text eol=lf
+results/** -text

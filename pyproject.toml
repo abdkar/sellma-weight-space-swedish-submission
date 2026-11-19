@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sellma-wsp"
+version = "0.2.0"
+description = "Reproducible Swedish transfer test of a published weight edit"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "pandas>=2.2", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+colab = ["huggingface-hub>=0.34", "safetensors>=0.5", "transformers>=5.2", "accelerate>=1.0", "mlflow-skinny>=3.0", "sqlalchemy>=2.0", "alembic>=1.13", "reportlab>=4.0"]
+test = ["pytest>=8", "nbformat>=5.10", "nbclient>=0.10", "nbconvert>=7", "ipykernel>=6"]
+
+[tool.setuptools.packages.find]
+include = ["sellma_wsp*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

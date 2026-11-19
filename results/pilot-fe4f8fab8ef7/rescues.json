@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dev-01-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "dev-02-v1",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "dev-04-v0",
+    "language": "sv",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  },
+  {
+    "id": "dev-04-v0",
+    "language": "en",
+    "original_truncated": true,
+    "original_repetitive": true,
+    "original_answer_present": false
+  }
+]

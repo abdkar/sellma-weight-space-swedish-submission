@@ -1,0 +1,17 @@
+contrast,language,split,n,families,effect_pp,low_pp,high_pp,discordant_concepts,discordant_families,degenerate_interval,missing_one_arm,both_wrong,rescued,regressed,both_correct
+B-A,sv,test,40,20,25.0,0.0,50.0,20,14,False,0,6,15,5,14
+B-C,sv,test,40,20,-5.0,-25.0,15.0,14,11,False,0,3,6,8,23
+B-C_pen,sv,test,40,20,25.0,12.5,37.5,16,14,False,0,8,13,3,16
+C_pen-A,sv,test,40,20,0.0,-20.0,22.5,18,15,False,0,12,9,9,10
+D-C,sv,test,40,20,0.0,-10.0,10.0,6,5,False,0,6,3,3,28
+B-R1,sv,test,40,20,55.00000000000001,35.0,75.0,26,17,False,0,9,24,2,5
+B-S1,sv,test,40,20,27.500000000000004,10.0,45.0,19,13,False,0,7,15,4,14
+B-A,en,test,40,20,7.5,0.0,15.0,3,3,False,0,0,3,0,37
+B-C,en,test,40,20,0.0,0.0,0.0,0,0,True,0,0,0,0,40
+B-C_pen,en,test,40,20,2.5,0.0,7.5,1,1,False,0,0,1,0,39
+C_pen-A,en,test,40,20,5.0,-5.0,15.0,4,4,False,0,0,3,1,36
+D-C,en,test,40,20,0.0,0.0,0.0,0,0,True,0,0,0,0,40
+B-R1,en,test,40,20,37.5,25.0,50.0,15,13,False,0,0,15,0,25
+B-S1,en,test,40,20,25.0,12.437500000000057,40.0,10,8,False,0,0,10,0,30
+D-C,sv,regression,8,8,0.0,0.0,0.0,0,0,True,0,3,0,0,5
+D-C,en,regression,8,8,0.0,0.0,0.0,0,0,True,0,3,0,0,5

@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+.env
+.env.*
+reanalysis/
+models/
+mlruns/
+*.db
+*.safetensors

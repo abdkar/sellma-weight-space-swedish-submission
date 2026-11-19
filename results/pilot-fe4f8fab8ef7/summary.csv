@@ -1,0 +1,7 @@
+split,language,condition,n,correct_completed,completed,answer_present,cap_hit,mean_tokens,repetition_rate
+dev,sv,A,10,0.7,0.7,0.7,0.3,4458.3,0.3
+dev,en,A,10,0.9,0.9,0.9,0.1,2827.1,0.1
+dev,sv,B,10,0.9,1.0,0.9,0.0,2298.1,0.0
+dev,en,B,10,1.0,1.0,1.0,0.0,1249.2,0.0
+dev,sv,R1,10,0.1,0.2,0.1,0.8,7108.2,0.8
+dev,en,R1,10,0.8,0.8,0.8,0.2,2884.5,0.2

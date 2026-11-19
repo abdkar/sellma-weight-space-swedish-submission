@@ -1,0 +1,9 @@
+{
+  "dataset_hash": "b657f0fdf519de7516ae0b7b60dcb6197614e81ca479f9aa3c4c8dbbf3b363a1",
+  "rows": 116,
+  "concepts": 58,
+  "families": 33,
+  "origin": "Original synthetic wording, AI-assisted; no benchmark items copied",
+  "seed": 20261118,
+  "human_review": "Review the displayed pairs before freezing"
+}

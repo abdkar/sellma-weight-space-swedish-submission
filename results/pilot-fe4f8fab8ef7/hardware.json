@@ -1,0 +1,16 @@
+{
+  "gpu": "NVIDIA L4",
+  "capability": [
+    8,
+    9
+  ],
+  "gpu_bytes": 23659151360,
+  "native_bf16": true,
+  "versions": {
+    "torch": "2.14.0",
+    "transformers": "5.20.2",
+    "numpy": "2.4.6",
+    "vllm": "0.33.0"
+  },
+  "signature": "9e92ea7fc4cf2a902348e1957bd0f19106a1234d757e24fbe413eb1b7a6ac1e2"
+}
